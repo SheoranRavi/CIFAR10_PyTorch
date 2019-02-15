@@ -1,5 +1,5 @@
 # CIFAR10_PyTorch
-A CNN model trained on CIFAR-10 in PyTorch. Accuracy on test set: ~87%
+A CNN model trained on CIFAR-10 in PyTorch. Accuracy on test set: ~87%.
 
 ## File Description
 CIFAR10_PyTorch: Trains and saves the model
